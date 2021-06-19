@@ -1,25 +1,25 @@
-										Sistema de Gerenciamento de CÛpias - STARK
+Sistema de Gerenciamento de C√≥pias - STARK
 							
-					O objetivo È tornar mais pr·tico e efetivo a utilizaÁ„o das cÛpias geradas para a faculdade, 
-					buscando assim um melhor desempenho do sistema que hoje È encontrado dentro da POLI/UPE.
+O objetivo √© tornar mais pr√°tico e efetivo a utiliza√ß√£o das c√≥pias geradas para a faculdade, 
+buscando assim um melhor desempenho do sistema que hoje √© encontrado dentro da POLI/UPE.
 							
 
 
-														Login's Padrıes:
+Login's Padr√µes:
 
-						Login: aluno   		--------------- 	 Senha: 123 	(selecionar aluno na ComboBox)
+Login: aluno   	 --------------- 	 Senha: 123 	(selecionar aluno na ComboBox)
 						
-						Login: professor    ---------------  	 Senha: 123 	(selecionar professor na ComboBox)
+Login: professor ---------------  	 Senha: 123 	(selecionar professor na ComboBox)
 							
-						Login: admin    	---------------  	 Senha: admin 	(selecionar funcion·rio na ComboBox)
+: admin    	 ---------------  	 Senha: admin 	(selecionar funcion√°rio na ComboBox)
 						
 						
 						
 														Grupo composto por :
 						
-									Dennys JosÈ P. L. RÍgo Lima (  djplrl@ecomp.poli.br )
+									Dennys Jos√© P. L. R√™go Lima (  djplrl@ecomp.poli.br )
 									Nilton Vieira da Silva ( nvs@ecomp.poli.br )
-									Jo„o Victor dos Santos Pereira ( jvsp2@ecomp.poli.br ) 
+									Jo√£o Victor dos Santos Pereira ( jvsp2@ecomp.poli.br ) 
 									Richard Jeremias Martins Rocha ( rjmr@ecomp.poli.br )
 						
 						
